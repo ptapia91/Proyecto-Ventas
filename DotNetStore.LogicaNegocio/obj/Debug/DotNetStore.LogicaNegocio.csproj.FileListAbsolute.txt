@@ -1,0 +1,33 @@
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Debug\DotNetStore.LogicaNegocio.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Debug\DotNetStore.LogicaNegocio.pdb
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Debug\DotNetStore.AccesoDatos.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Debug\DotNetStore.Entidades.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Debug\EntityFramework.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Debug\DotNetStore.AccesoDatos.pdb
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Debug\DotNetStore.Entidades.pdb
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Debug\EntityFramework.xml
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.LogicaNegocio\obj\Debug\DotNetStore.LogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.LogicaNegocio\obj\Debug\DotNetStore.LogicaNegocio.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.LogicaNegocio\obj\Debug\DotNetStore.LogicaNegocio.pdb
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Debug\DotNetStore.LogicaNegocio.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Debug\DotNetStore.LogicaNegocio.pdb
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Debug\DotNetStore.AccesoDatos.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Debug\DotNetStore.Entidades.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Debug\EntityFramework.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Debug\DotNetStore.AccesoDatos.pdb
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Debug\DotNetStore.AccesoDatos.dll.config
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Debug\DotNetStore.Entidades.pdb
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Debug\EntityFramework.xml
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.LogicaNegocio\obj\Debug\DotNetStore.LogicaNegocio.csprojAssemblyReference.cache
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.LogicaNegocio\obj\Debug\DotNetStore.LogicaNegocio.csproj.CoreCompileInputs.cache
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.LogicaNegocio\obj\Debug\DotNetStore.LogicaNegocio.csproj.CopyComplete
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.LogicaNegocio\obj\Debug\DotNetStore.LogicaNegocio.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.LogicaNegocio\obj\Debug\DotNetStore.LogicaNegocio.pdb

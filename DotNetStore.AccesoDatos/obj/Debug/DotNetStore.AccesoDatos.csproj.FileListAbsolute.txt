@@ -1,0 +1,42 @@
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.AccesoDatos\bin\Debug\DotNetStore.AccesoDatos.dll.config
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.AccesoDatos\bin\Debug\DotNetStore.AccesoDatos.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.AccesoDatos\bin\Debug\DotNetStore.AccesoDatos.pdb
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.AccesoDatos\bin\Debug\DotNetStore.Entidades.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.AccesoDatos\bin\Debug\DotNetStore.Entidades.pdb
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.AccesoDatos\obj\Debug\DotNetStore.AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.AccesoDatos\obj\Debug\DotNetStore.AccesoDatos.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.AccesoDatos\obj\Debug\DotNetStore.AccesoDatos.pdb
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.AccesoDatos\obj\Debug\DotNetStore.AccesoDatos.Migrations.Inicial.resources
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.AccesoDatos\obj\Debug\DotNetStore.AccesoDatos.csproj.GenerateResource.Cache
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.AccesoDatos\obj\Debug\DotNetStore.AccesoDatos.Migrations.AgregarFechaCreacion.resources
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.AccesoDatos\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.AccesoDatos\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.AccesoDatos\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.AccesoDatos\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.AccesoDatos\obj\Debug\DotNetStore.AccesoDatos.Migrations.Identity.resources
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.AccesoDatos\bin\Debug\DotNetStore.AccesoDatos.dll.config
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.AccesoDatos\bin\Debug\DotNetStore.AccesoDatos.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.AccesoDatos\bin\Debug\DotNetStore.AccesoDatos.pdb
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.AccesoDatos\bin\Debug\DotNetStore.Entidades.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.AccesoDatos\bin\Debug\EntityFramework.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.AccesoDatos\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.AccesoDatos\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.AccesoDatos\bin\Debug\DotNetStore.Entidades.pdb
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.AccesoDatos\bin\Debug\EntityFramework.xml
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.AccesoDatos\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.AccesoDatos\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.AccesoDatos\obj\Debug\DotNetStore.AccesoDatos.csprojAssemblyReference.cache
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.AccesoDatos\obj\Debug\DotNetStore.AccesoDatos.Migrations.Inicial.resources
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.AccesoDatos\obj\Debug\DotNetStore.AccesoDatos.Migrations.AgregarFechaCreacion.resources
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.AccesoDatos\obj\Debug\DotNetStore.AccesoDatos.Migrations.Identity.resources
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.AccesoDatos\obj\Debug\DotNetStore.AccesoDatos.csproj.GenerateResource.cache
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.AccesoDatos\obj\Debug\DotNetStore.AccesoDatos.csproj.CoreCompileInputs.cache
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.AccesoDatos\obj\Debug\DotNetStore.AccesoDatos.csproj.CopyComplete
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.AccesoDatos\obj\Debug\DotNetStore.AccesoDatos.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.AccesoDatos\obj\Debug\DotNetStore.AccesoDatos.pdb

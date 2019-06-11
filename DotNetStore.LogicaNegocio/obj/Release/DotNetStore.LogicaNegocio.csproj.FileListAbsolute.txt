@@ -1,0 +1,15 @@
+C:\Users\VS2015_DEV\Documents\Visual Studio 2015\Projects\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Release\DotNetStore.LogicaNegocio.dll
+C:\Users\VS2015_DEV\Documents\Visual Studio 2015\Projects\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Release\DotNetStore.LogicaNegocio.pdb
+C:\Users\VS2015_DEV\Documents\Visual Studio 2015\Projects\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Release\DotNetStore.AccesoDatos.dll
+C:\Users\VS2015_DEV\Documents\Visual Studio 2015\Projects\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Release\DotNetStore.Entidades.dll
+C:\Users\VS2015_DEV\Documents\Visual Studio 2015\Projects\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Release\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\VS2015_DEV\Documents\Visual Studio 2015\Projects\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Release\EntityFramework.dll
+C:\Users\VS2015_DEV\Documents\Visual Studio 2015\Projects\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Release\Microsoft.AspNet.Identity.Core.dll
+C:\Users\VS2015_DEV\Documents\Visual Studio 2015\Projects\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Release\DotNetStore.AccesoDatos.pdb
+C:\Users\VS2015_DEV\Documents\Visual Studio 2015\Projects\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Release\DotNetStore.Entidades.pdb
+C:\Users\VS2015_DEV\Documents\Visual Studio 2015\Projects\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Release\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\VS2015_DEV\Documents\Visual Studio 2015\Projects\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Release\EntityFramework.xml
+C:\Users\VS2015_DEV\Documents\Visual Studio 2015\Projects\SlnDotNetStore2\DotNetStore.LogicaNegocio\bin\Release\Microsoft.AspNet.Identity.Core.xml
+C:\Users\VS2015_DEV\Documents\Visual Studio 2015\Projects\SlnDotNetStore2\DotNetStore.LogicaNegocio\obj\Release\DotNetStore.LogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\VS2015_DEV\Documents\Visual Studio 2015\Projects\SlnDotNetStore2\DotNetStore.LogicaNegocio\obj\Release\DotNetStore.LogicaNegocio.dll
+C:\Users\VS2015_DEV\Documents\Visual Studio 2015\Projects\SlnDotNetStore2\DotNetStore.LogicaNegocio\obj\Release\DotNetStore.LogicaNegocio.pdb

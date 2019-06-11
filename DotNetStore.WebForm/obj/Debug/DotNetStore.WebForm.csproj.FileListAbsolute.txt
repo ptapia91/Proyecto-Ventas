@@ -1,0 +1,159 @@
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\ApplicationInsights.config
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\roslyn\csc.exe
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\roslyn\vbc.exe
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\roslyn\VBCSCompiler.exe
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\DotNetStore.WebForm.dll.config
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\DotNetStore.WebForm.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\DotNetStore.WebForm.pdb
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Antlr3.Runtime.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.AI.Web.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.ApplicationInsights.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Newtonsoft.Json.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\System.Web.Optimization.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\WebGrease.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.AI.Web.xml
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.ApplicationInsights.xml
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\System.Web.Optimization.xml
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Antlr3.Runtime.pdb
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Newtonsoft.Json.xml
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\es\System.Web.Optimization.resources.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\obj\Debug\DotNetStore.WebForm.csprojResolveAssemblyReference.cache
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\obj\Debug\DotNetStore.WebForm.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\obj\Debug\DotNetStore.WebForm.pdb
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\DotNetStore.Entidades.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\DotNetStore.LogicaNegocio.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\EntityFramework.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\EntityFramework.SqlServer.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\DotNetStore.AccesoDatos.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\DotNetStore.Entidades.pdb
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\DotNetStore.LogicaNegocio.pdb
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\EntityFramework.xml
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\EntityFramework.SqlServer.xml
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\DotNetStore.AccesoDatos.pdb
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\AjaxControlToolkit.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.Owin.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.Owin.Security.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Owin.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.Owin.xml
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.Owin.Security.xml
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.WebForm\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\ApplicationInsights.config
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\roslyn\csc.exe
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\roslyn\System.Collections.Immutable.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\roslyn\System.Reflection.Metadata.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\roslyn\vbc.exe
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\roslyn\VBCSCompiler.exe
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\roslyn\VBCSCompiler.exe.config
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\DotNetStore.WebForm.dll.config
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\DotNetStore.WebForm.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\DotNetStore.WebForm.pdb
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\AjaxControlToolkit.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Antlr3.Runtime.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\AspNet.ScriptManager.jQuery.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\DotNetStore.Entidades.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\DotNetStore.LogicaNegocio.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\EntityFramework.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\EntityFramework.SqlServer.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.AI.DependencyCollector.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.AI.Web.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.AI.WindowsServer.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.ApplicationInsights.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.Owin.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.Owin.Security.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.Web.Infrastructure.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Newtonsoft.Json.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Owin.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\System.Web.Optimization.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\WebGrease.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\DotNetStore.AccesoDatos.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\DotNetStore.Entidades.pdb
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\DotNetStore.LogicaNegocio.pdb
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\EntityFramework.xml
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\EntityFramework.SqlServer.xml
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.AI.DependencyCollector.xml
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.AI.Web.xml
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.AI.WindowsServer.xml
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.ApplicationInsights.xml
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.Owin.xml
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.Owin.Security.xml
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\System.Web.Optimization.xml
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Antlr3.Runtime.pdb
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Newtonsoft.Json.xml
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\DotNetStore.AccesoDatos.pdb
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\DotNetStore.AccesoDatos.dll.config
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\es\System.Web.Optimization.resources.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\obj\Debug\DotNetStore.WebForm.csprojAssemblyReference.cache
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\obj\Debug\DotNetStore.WebForm.csproj.CoreCompileInputs.cache
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\obj\Debug\DotNetStore.WebForm.csproj.CopyComplete
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\obj\Debug\DotNetStore.WebForm.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2 - copia\DotNetStore.WebForm\obj\Debug\DotNetStore.WebForm.pdb

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="MiDBConexion-Web.config Connection String" description="MiDBConexion Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="data source=.;initial catalog=DotNetStore2DB;integrated security=True;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\VS2015_DEV\\Documents\\Visual\ Studio\ 2015\\Projects\\SlnDotNetStore2\\DotNetStore\.WebAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MiDBConexion']/@connectionString" />
+  </parameter>
+</parameters>

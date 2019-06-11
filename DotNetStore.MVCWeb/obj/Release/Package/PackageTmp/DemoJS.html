@@ -1,0 +1,209 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+	<meta charset="utf-8" />
+    <script type="text/javascript" 
+            src="Scripts/jquery-1.10.2.js"></script>
+    <script type="text/javascript">
+        window.onload = function () {
+            //    alert("Window cargado");
+            //Obtiene un elemento por su ID
+            var d1 = document.getElementById("miParrafo");
+            //Obtiene todos los elementos del tipo <a>
+            var d2 = document.getElementsByTagName("a");
+        }
+
+        $(document).ready(function () {
+            //    alert("DOM cargado");
+            $("#miContenido").html("Hola Mundo!");
+            //Seleccionar un elemento por su ID
+            var j1 = $("#miParrafo");
+            //Seleccionar por tipo de elemento
+            var j2 = $("a");
+            //Seleccionar ambos
+            var j3 = $("#miParrafo", "a");
+            //Seleccionar por clase CSS
+            var j4 = $(".miClase");
+
+            var j5 = $("p[a]");
+            //Selecciona los <div> que estan visibles
+            var j6 = $("div:visible");
+            //Seleccionamos los <input> que tengan
+            //type=radio y el atributo checked
+            //alert($("input[type=radio]:checked").val());
+            //Seleccionamos SOLO algun elemento <ul>
+            //con id "menu"
+            var j7 = $("ul#menu");
+            //Selecciona todos los elementos <li>
+            //pares de la lista
+            //$("padre hijo")
+            var j8 = $("ul#menu li:even");
+            //impares
+            var j9 = $("ul#menu li:odd");
+            //Selecciona los 4 primeros <p>
+            var j10 = $("p:lt(4)");
+            //Selecciona el primer parrafo
+            j11 = $("p:first");
+            //Selecciona el ultimo parrafo
+            j11 = $("p:last");
+
+            //Recorre los elementos <li>
+            $("li").each(function (index) {
+                //alert(index + ": " + $(this).text());
+            });
+
+            //try {
+            //    //funcionnodefinida();
+            //    alert('la funcion si existe');
+            //} catch (e) {
+            //    alert('Ocurrió un error: ' + e.message);
+            //} finally {
+            //    alert("Bloque finally");
+            //}
+
+            //var edad = prompt("Ingrese su edad", "");
+            ////alert(edad);
+            //if (isNaN(edad)) {
+            //    //NO ES NUMERICO
+            //    edad = 0;
+            //    alert("No es un numero valido");
+            //}
+            //else {
+            //    //ES NUMERICO
+            //    edad = Number(edad) + 1;
+            //    alert("Nueva edad: " + edad);
+            //}
+
+            //Validar si una variable tiene un valor
+            //if (mivariable) {
+            //    alert('variable tiene valor');
+            //}
+
+            //undefined: no inicializaste la variable
+            //null: especificaste un null => var i = null;
+
+            //== : comparas si ambas variables son iguales
+            //"0"==0 => TRUE
+            //"0" === 0 => FALSE
+           
+            var arreglo1 = new Array();
+            arreglo1[0] = "uno";
+            arreglo1[1] = "dos";
+            arreglo1[2] = "tres";
+
+            var item2 = arreglo1[1];
+            arreglo1[1] = "otro dos";
+
+            //$("p").on("click", function () {
+            //    alert($(this).text());
+            //});
+
+            $("a").css("background-color", "yellow");
+
+            $("p").css({
+                "color": "red", 'background': 'blue',
+                'font-weight':'bold'
+            });
+
+            //Si se le hace doble click al elemento PRUEBA
+            //lo oculta
+            //$("#prueba").dblclick(function () {
+            //    $(this).hide();
+            //});
+            //$("#prueba").mouseenter(function () {
+            //    alert('Ingresaste a prueba!');
+            //});
+            //$("#prueba").mouseleave(function () {
+            //    alert('Saliste de prueba!');
+            //});
+
+            //$("#prueba2").on({
+            //    mouseenter: function () {
+            //        $(this).css('background-color', 'lightgray');
+            //    },
+            //    mouseleave: function () {
+            //        $(this).css('background-color', 'lightblue');
+            //    },
+            //    click: function () {
+            //        $(this).css('background-color', 'yellow');
+            //    }
+            //});
+
+            $("#boton1").click(function () {
+                $("#paraOcultar").hide(1000);
+
+                $("#div1").fadeIn();
+                $("#div2").fadeIn('slow');
+                $("#div3").fadeIn(3000);
+            });
+
+            $("#boton2").click(function () {
+                $("#div1").fadeOut();
+                $("#div2").fadeOut('slow');
+                $("#div3").fadeOut(3000);
+            });
+
+            $("#iniciarAnimacion").click(function () {
+                $("#paraAnimar").animate({left: '250px'},3000)
+            });
+        });     
+    </script>
+</head>
+<body>
+    <button id="iniciarAnimacion">Iniciar</button>
+    <div id="paraAnimar" style="background:#0094ff;height:100px;width:100px;
+        position:absolute;"></div>
+
+
+    <p id="paraOcultar">
+        Este texto se ocultara
+    </p>
+    <button id="boton1">Boton 1</button>
+    <button id="boton2">Boton 2</button>
+    <div id="div1" style="width:80px;height:80px;display:none;
+            background-color:red;"></div>
+    <div id="div2" style="width:80px;height:80px;display:none;
+            background-color:green;"></div>
+    <div id="div3" style="width:80px;height:80px;display:none;
+            background-color:blue;"></div>
+
+    Ejemplo de Javascript
+    <div id="miContenido">
+        Mi pagina con jQuery
+    </div>
+    <p id="prueba">
+        texto de prueba
+    </p>
+
+    <p id="prueba2">
+        texto de prueba 2
+    </p>
+    <p id="miParrafo" class="miClase"></p>
+    <a href="http://www.google.com">Google</a>
+    <a href="http://www.microsoft.com">Microsoft</a>
+    <p id="parrafoDeCierre" class="miClase"></p>
+
+    <p class="especial">demo parrafo</p>
+    <span id="introduccion">demo span</span>
+    <div>
+        <form>
+            <input type="radio" name="genero"
+                   value="masculino" checked />Masculino<br />
+            <input type="radio" name="genero"
+                   value="femenino" />Femenino<br />
+            <input type="submit" />
+        </form>
+    </div>
+
+    <a>haga clic aqui!</a>
+    <ul id="menu">
+        <li>Uno</li>
+        <li>Dos</li>
+        <li>Tres</li>
+        <li>Cuatro</li>
+        <li>Cinco</li>
+    </ul>
+</body>
+</html>

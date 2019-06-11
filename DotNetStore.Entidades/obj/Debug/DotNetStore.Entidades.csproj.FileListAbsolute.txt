@@ -1,0 +1,10 @@
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.Entidades\bin\Debug\DotNetStore.Entidades.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.Entidades\bin\Debug\DotNetStore.Entidades.pdb
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.Entidades\obj\Debug\DotNetStore.Entidades.dll
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.Entidades\obj\Debug\DotNetStore.Entidades.pdb
+C:\Users\VS2015_DEV\Documents\visual studio 2015\Projects\SlnDotNetStore2\DotNetStore.Entidades\obj\Debug\DotNetStore.Entidades.csprojResolveAssemblyReference.cache
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.Entidades\bin\Debug\DotNetStore.Entidades.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.Entidades\bin\Debug\DotNetStore.Entidades.pdb
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.Entidades\obj\Debug\DotNetStore.Entidades.csproj.CoreCompileInputs.cache
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.Entidades\obj\Debug\DotNetStore.Entidades.dll
+G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.Entidades\obj\Debug\DotNetStore.Entidades.pdb

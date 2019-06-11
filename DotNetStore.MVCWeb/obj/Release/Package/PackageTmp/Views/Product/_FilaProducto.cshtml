@@ -1,0 +1,24 @@
+﻿@model DotNetStore.Entidades.Producto
+
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => Model.Nombre)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => Model.Precio)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => Model.FechaCreacion)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => Model.FechaEdicion)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => Model.Categoria.Nombre)
+    </td>
+    <td>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.ProductoID }) |
+        @Html.ActionLink("Details", "Details", new { id = Model.ProductoID }) |
+        @Html.ActionLink("Eliminar", "Delete", new { id = Model.ProductoID }, new { onclick = "return confirm('¿Está seguro de eliminar el producto?');" })
+    </td>
+</tr>

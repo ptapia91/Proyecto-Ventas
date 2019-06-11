@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Default Web Site/webapistore" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\VS2015_DEV\\Documents\\Visual\ Studio\ 2015\\Projects\\SlnDotNetStore2\\DotNetStore\.WebAPI\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\VS2015_DEV\\Documents\\Visual\ Studio\ 2015\\Projects\\SlnDotNetStore2\\DotNetStore\.WebAPI\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="MiDBConexion-Web.config Connection String" description="" value="data source=.;initial catalog=DotNetStore2DB;integrated security=True;" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\VS2015_DEV\\Documents\\Visual\ Studio\ 2015\\Projects\\SlnDotNetStore2\\DotNetStore\.WebAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MiDBConexion']/@connectionString" />
+  </parameter>
+</parameters>

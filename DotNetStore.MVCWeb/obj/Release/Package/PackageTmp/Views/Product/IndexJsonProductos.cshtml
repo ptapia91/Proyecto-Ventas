@@ -1,0 +1,70 @@
+﻿<script type="text/javascript">
+    $(document).ready(function () {
+        listarProductos();
+    });
+
+    function listarProductos() {
+        $.getJSON("/Product/IndexJsonProductos",
+            null,
+            function (data) {
+                //Limpiamos el contenido del cuerpo de la tabla
+                $("#filasProductos").empty();
+                //Recorremos el resultado de productos
+                $.each(data, function (key,val) {
+                    var fila = 
+                        "<tr>" + 
+                            "<td>" + "<a href='Product/Edit/" + val.ProductoID + "'>" +
+                                "Editar</a>" + "</td>" +
+                            "<td>" + "<a href='#' onClick='eliminarProducto(" +
+                                    val.ProductoID + ")'>Eliminar</a>" + "</td>" +
+                            "<td>" + val.ProductoID + "</td>" +
+                            "<td>" + val.Nombre + "</td>" +
+                            "<td>" + val.Precio + "</td>" +
+                            "<td>" + val.Categoria + "</td>"
+                    "</tr>";
+                    $(fila).appendTo($("#filasProductos"));
+                });
+        });
+    }
+
+    function eliminarProducto(id) {
+        if (confirm('¿Esta seguro de eliminar el producto?')) {
+            $.ajax({
+                url: "Product/Delete/" + id,
+                type: "GET",
+                contentType: "application/json,charset=utf-8",
+                success: function (response) {
+                    listarProductos();
+                },
+                error: function (x,e) {
+                    alert("Error interno al eliminar el producto");
+                }
+            });
+        }
+    }
+</script>
+
+
+@{
+    ViewBag.Title = "Index Ajax";
+}
+
+<h2>Index Ajax</h2>
+
+<p>
+    @Html.ActionLink("Crear nuevo", "Create")
+</p>
+
+<table id="tblProductos" class="table table-hover table-striped">
+    <thead>
+        <tr>
+            <th></th>
+            <th></th>
+            <th>ID</th>
+            <th>Nombre</th>
+            <th>Precio</th>
+            <th>Categoria</th>
+        </tr>
+    </thead>
+    <tbody id="filasProductos"></tbody>
+</table>

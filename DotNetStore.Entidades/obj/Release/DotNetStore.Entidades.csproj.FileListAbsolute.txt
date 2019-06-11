@@ -1,0 +1,5 @@
+C:\Users\VS2015_DEV\Documents\Visual Studio 2015\Projects\SlnDotNetStore2\DotNetStore.Entidades\bin\Release\DotNetStore.Entidades.dll
+C:\Users\VS2015_DEV\Documents\Visual Studio 2015\Projects\SlnDotNetStore2\DotNetStore.Entidades\bin\Release\DotNetStore.Entidades.pdb
+C:\Users\VS2015_DEV\Documents\Visual Studio 2015\Projects\SlnDotNetStore2\DotNetStore.Entidades\obj\Release\DotNetStore.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\VS2015_DEV\Documents\Visual Studio 2015\Projects\SlnDotNetStore2\DotNetStore.Entidades\obj\Release\DotNetStore.Entidades.dll
+C:\Users\VS2015_DEV\Documents\Visual Studio 2015\Projects\SlnDotNetStore2\DotNetStore.Entidades\obj\Release\DotNetStore.Entidades.pdb
