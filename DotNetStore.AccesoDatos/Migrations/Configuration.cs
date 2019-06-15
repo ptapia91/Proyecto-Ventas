@@ -1,40 +1,36 @@
 namespace DotNetStore.AccesoDatos.Migrations
 {
-    using Entidades;
-    using Microsoft.AspNet.Identity;
-    using Microsoft.AspNet.Identity.EntityFramework;
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Migrations;
-    using System.Data.Entity.Validation;
-    using System.Diagnostics;
     using System.Linq;
+    using DotNetStore.Entidades;
+    using Microsoft.AspNet.Identity.EntityFramework;
+    using Microsoft.AspNet.Identity;
 
     internal sealed class Configuration : DbMigrationsConfiguration<DotNetStore.AccesoDatos.DotNetStoreContext>
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = false;
+            AutomaticMigrationsEnabled = true;
         }
 
         protected override void Seed(DotNetStore.AccesoDatos.DotNetStoreContext context)
         {
-            try
-            {
-                context.Categorias.AddOrUpdate(c => c.Nombre,
-                      new Categoria { Nombre = "Categoria 1" },
-                      new Categoria { Nombre = "Categoria 2" },
-                      new Categoria { Nombre = "Categoria 3" });
+            context.Categorias.AddOrUpdate(c => c.Nombre,
+                 new Categoria { Nombre = "Categoria 4" },
+                 new Categoria { Nombre = "Categoria 5" },
+                 new Categoria { Nombre = "Categoria 6" });
 
-                context.Productos.AddOrUpdate(p => p.Nombre,
-                    new Producto { Nombre = "Producto 1", FechaCreacion = DateTime.Now, FechaEdicion = DateTime.Now, Precio = 120.05M, CategoriaID = 1 },
-                    new Producto { Nombre = "Producto 2", FechaCreacion = DateTime.Now, FechaEdicion = DateTime.Now, Precio = 80.05M, CategoriaID = 2 },
-                    new Producto { Nombre = "Producto 3", FechaCreacion = DateTime.Now, FechaEdicion = DateTime.Now, Precio = 250.05M, CategoriaID = 3 });
+            context.Productos.AddOrUpdate(p => p.Nombre,
+                new Producto { Nombre = "Producto 4", FechaCreacion = DateTime.Now, FechaEdicion = DateTime.Now, Precio = 120.00M, CategoriaID = 4 },
+                new Producto { Nombre = "Producto 5", FechaCreacion = DateTime.Now, FechaEdicion = DateTime.Now, Precio = 80.00M, CategoriaID = 5},
+                new Producto { Nombre = "Producto 6", FechaCreacion = DateTime.Now, FechaEdicion = DateTime.Now, Precio = 250.00M, CategoriaID = 6 });
 
-                context.Roles.AddOrUpdate(r => r.Name,
-                    new IdentityRole { Name = "Administrador" },
-                    new IdentityRole { Name = "Supervisor" },
-                    new IdentityRole { Name = "Vendedor" });
+            context.Roles.AddOrUpdate(r => r.Name,
+                new IdentityRole { Name = "Administrador" },
+                new IdentityRole { Name = "Supervisor" },
+                new IdentityRole { Name = "Vendedor" });
 
             if (!context.Users.Any())
             {
@@ -42,30 +38,12 @@ namespace DotNetStore.AccesoDatos.Migrations
                 var userManager = new UserManager<IdentityUser>(userStore);
                 var user = new IdentityUser()
                 {
-                    UserName = "admin1@dotnetstore.com",
-                    Email = "admin1@dotnetstore.com"
+                    UserName = "admin2@dotnetstore.com",
+                    Email = "admin2@dotnetstore.com"
                 };
-                userManager.Create(user, "1234567");
-                userManager.AddToRole(user.Id, "Administrador");
-            }
-
-            }
-            catch (System.Data.Entity.Validation.DbEntityValidationException ex)
-            {
-                var sb = new System.Text.StringBuilder();
-                foreach (var failure in ex.EntityValidationErrors)
-                {
-                    sb.AppendFormat("{0} failed validation", failure.Entry.Entity.GetType());
-                    foreach (var error in failure.ValidationErrors)
-                    {
-                        sb.AppendFormat("- {0} : {1}", error.PropertyName, error.ErrorMessage);
-                        sb.AppendLine();
-                    }
-                }
-
-                throw new Exception(sb.ToString());
+                userManager.Create(user, "123456");
+                userManager.AddToRole(user.Id, "Supervisor");
             }
         }
-      }
     }
-
+}

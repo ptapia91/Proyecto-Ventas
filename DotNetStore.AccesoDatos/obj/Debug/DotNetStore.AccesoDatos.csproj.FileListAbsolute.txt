@@ -54,11 +54,9 @@ G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.AccesoDatos\bin\Debug\EntityFra
 G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.AccesoDatos\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.AccesoDatos\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.AccesoDatos\obj\Debug\DotNetStore.AccesoDatos.csprojAssemblyReference.cache
-G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.AccesoDatos\obj\Debug\DotNetStore.AccesoDatos.Migrations.Inicial.resources
-G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.AccesoDatos\obj\Debug\DotNetStore.AccesoDatos.Migrations.AgregarFechaCreacion.resources
-G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.AccesoDatos\obj\Debug\DotNetStore.AccesoDatos.Migrations.Identity.resources
-G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.AccesoDatos\obj\Debug\DotNetStore.AccesoDatos.csproj.GenerateResource.cache
 G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.AccesoDatos\obj\Debug\DotNetStore.AccesoDatos.csproj.CoreCompileInputs.cache
 G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.AccesoDatos\obj\Debug\DotNetStore.AccesoDatos.csproj.CopyComplete
 G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.AccesoDatos\obj\Debug\DotNetStore.AccesoDatos.dll
 G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.AccesoDatos\obj\Debug\DotNetStore.AccesoDatos.pdb
+G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.AccesoDatos\obj\Debug\DotNetStore.AccesoDatos.Migrations.Mejoras.resources
+G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.AccesoDatos\obj\Debug\DotNetStore.AccesoDatos.csproj.GenerateResource.cache

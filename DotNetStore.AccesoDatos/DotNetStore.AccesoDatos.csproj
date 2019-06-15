@@ -57,16 +57,11 @@
   <ItemGroup>
     <Compile Include="DotNetStoreContext.cs" />
     <Compile Include="Migrations\201703310310456_Inicial.cs" />
-    <Compile Include="Migrations\201703310310456_Inicial.Designer.cs">
-      <DependentUpon>201703310310456_Inicial.cs</DependentUpon>
-    </Compile>
     <Compile Include="Migrations\201703310323320_AgregarFechaCreacion.cs" />
-    <Compile Include="Migrations\201703310323320_AgregarFechaCreacion.Designer.cs">
-      <DependentUpon>201703310323320_AgregarFechaCreacion.cs</DependentUpon>
-    </Compile>
     <Compile Include="Migrations\201704120217378_Identity.cs" />
-    <Compile Include="Migrations\201704120217378_Identity.Designer.cs">
-      <DependentUpon>201704120217378_Identity.cs</DependentUpon>
+    <Compile Include="Migrations\201906151614124_Mejoras.cs" />
+    <Compile Include="Migrations\201906151614124_Mejoras.Designer.cs">
+      <DependentUpon>201906151614124_Mejoras.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="ProductoDA.cs" />
@@ -86,14 +81,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201703310310456_Inicial.resx">
-      <DependentUpon>201703310310456_Inicial.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201703310323320_AgregarFechaCreacion.resx">
-      <DependentUpon>201703310323320_AgregarFechaCreacion.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201704120217378_Identity.resx">
-      <DependentUpon>201704120217378_Identity.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201906151614124_Mejoras.resx">
+      <DependentUpon>201906151614124_Mejoras.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
