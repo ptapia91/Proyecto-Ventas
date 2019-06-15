@@ -34,6 +34,8 @@ namespace DotNetStore.Entidades
         [Display(Name = "Categoria")]
         public int CategoriaID { get; set; }
 
+        public string Estado { get; set; }
+
         public virtual Categoria Categoria { get; set; }
     }
 }

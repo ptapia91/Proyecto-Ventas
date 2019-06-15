@@ -18,6 +18,11 @@ namespace DotNetStore.AccesoDatos
             return _context.Categorias.ToList();
         }
 
+        public IEnumerable<Estado> SeleccionarEstados()
+        {
+            return _context.Estado.ToList();
+        }
+
         public IEnumerable<Producto> SeleccionarTodosPorFiltro(int categoriaID, DateTime inicioFechaCreacion, DateTime finFechaCreacion)
         {
             return _context.Productos

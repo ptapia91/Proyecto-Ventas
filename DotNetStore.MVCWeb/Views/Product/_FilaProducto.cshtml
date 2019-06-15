@@ -17,6 +17,9 @@
         @Html.DisplayFor(modelItem => Model.Categoria.Nombre)
     </td>
     <td>
+        @Html.DisplayFor(modelItem => Model.Estado)
+    </td>
+    <td>
         @Html.ActionLink("Edit", "Edit", new { id = Model.ProductoID }) |
         @Html.ActionLink("Details", "Details", new { id = Model.ProductoID }) |
         @Html.ActionLink("Eliminar", "Delete", new { id = Model.ProductoID }, new { onclick = "return confirm('¿Está seguro de eliminar el producto?');" })

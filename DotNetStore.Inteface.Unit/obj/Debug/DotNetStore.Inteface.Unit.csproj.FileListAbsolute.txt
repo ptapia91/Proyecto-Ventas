@@ -1,0 +1,11 @@
+G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.Inteface.Unit\bin\Debug\DotNetStore.Inteface.Unit.dll
+G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.Inteface.Unit\bin\Debug\DotNetStore.Inteface.Unit.pdb
+G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.Inteface.Unit\bin\Debug\DotNetStore.Repository.dll
+G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.Inteface.Unit\bin\Debug\DotNetStore.Entidades.dll
+G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.Inteface.Unit\bin\Debug\DotNetStore.Repository.pdb
+G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.Inteface.Unit\bin\Debug\DotNetStore.Entidades.pdb
+G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.Inteface.Unit\obj\Debug\DotNetStore.Inteface.Unit.csprojAssemblyReference.cache
+G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.Inteface.Unit\obj\Debug\DotNetStore.Inteface.Unit.csproj.CoreCompileInputs.cache
+G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.Inteface.Unit\obj\Debug\DotNetStore.Inteface.Unit.csproj.CopyComplete
+G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.Inteface.Unit\obj\Debug\DotNetStore.Inteface.Unit.dll
+G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.Inteface.Unit\obj\Debug\DotNetStore.Inteface.Unit.pdb

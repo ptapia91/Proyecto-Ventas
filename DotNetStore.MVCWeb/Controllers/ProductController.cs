@@ -89,6 +89,7 @@ namespace DotNetStore.MVCWeb.Controllers
         {
             var product = _logicaNegocio.Seleccionar(id);
             ViewBag.Categorias = _logicaNegocio.SeleccionarCategorias();
+            ViewBag.Estado = _logicaNegocio.SeleccionarEstados();
             return View(product);
         }
 

@@ -18,6 +18,11 @@ namespace DotNetStore.LogicaNegocio
             return _accesoDatos.SeleccionarCategorias();
         }
 
+        public IEnumerable<Estado> SeleccionarEstados()
+        {
+            return _accesoDatos.SeleccionarEstados();
+        }
+
         public IEnumerable<Producto> SeleccionarTodos()
         {
             return _accesoDatos.SeleccionarTodos();

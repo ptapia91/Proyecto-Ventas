@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetStore.AccesoDatos", "DotNetStore.AccesoDatos\DotNetStore.AccesoDatos.csproj", "{20B884D5-73A7-4C1A-BC4E-D17548E64039}"
 EndProject
@@ -14,6 +14,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetStore.MVCWeb", "DotNetStore.MVCWeb\DotNetStore.MVCWeb.csproj", "{4249F33A-AFD1-4429-9C75-2E7E0514299C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetStore.WebAPI", "DotNetStore.WebAPI\DotNetStore.WebAPI.csproj", "{F89FCA1C-DD78-4854-A6AD-3D81C08E8299}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{95316E2B-10FD-4DBE-8992-525A4B12D356}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetStore.Inteface.Unit", "DotNetStore.Inteface.Unit\DotNetStore.Inteface.Unit.csproj", "{8C93F1A9-D865-45B2-9D5D-3A0E8B5BCC84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetStore.Repository", "DotNetStore.Repository\DotNetStore.Repository.csproj", "{09D3291F-92E6-4D99-B801-39EFA8DE7EED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,8 +51,25 @@ Global
 		{F89FCA1C-DD78-4854-A6AD-3D81C08E8299}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F89FCA1C-DD78-4854-A6AD-3D81C08E8299}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F89FCA1C-DD78-4854-A6AD-3D81C08E8299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C93F1A9-D865-45B2-9D5D-3A0E8B5BCC84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C93F1A9-D865-45B2-9D5D-3A0E8B5BCC84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C93F1A9-D865-45B2-9D5D-3A0E8B5BCC84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C93F1A9-D865-45B2-9D5D-3A0E8B5BCC84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09D3291F-92E6-4D99-B801-39EFA8DE7EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D3291F-92E6-4D99-B801-39EFA8DE7EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09D3291F-92E6-4D99-B801-39EFA8DE7EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09D3291F-92E6-4D99-B801-39EFA8DE7EED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{20B884D5-73A7-4C1A-BC4E-D17548E64039} = {95316E2B-10FD-4DBE-8992-525A4B12D356}
+		{FB97D440-909B-476F-A6A5-08A13FD847A0} = {95316E2B-10FD-4DBE-8992-525A4B12D356}
+		{8C93F1A9-D865-45B2-9D5D-3A0E8B5BCC84} = {95316E2B-10FD-4DBE-8992-525A4B12D356}
+		{09D3291F-92E6-4D99-B801-39EFA8DE7EED} = {95316E2B-10FD-4DBE-8992-525A4B12D356}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F700B0FB-C18E-41BA-87AC-500F3C772347}
 	EndGlobalSection
 EndGlobal

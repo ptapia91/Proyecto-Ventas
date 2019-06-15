@@ -8,3 +8,9 @@ G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.Entidades\bin\Debug
 G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.Entidades\obj\Debug\DotNetStore.Entidades.csproj.CoreCompileInputs.cache
 G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.Entidades\obj\Debug\DotNetStore.Entidades.dll
 G:\Desarrollo\Certificacion 2017\SlnDotNetStore2\DotNetStore.Entidades\obj\Debug\DotNetStore.Entidades.pdb
+G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.Entidades\bin\Debug\DotNetStore.Entidades.dll
+G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.Entidades\bin\Debug\DotNetStore.Entidades.pdb
+G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.Entidades\obj\Debug\DotNetStore.Entidades.csproj.CoreCompileInputs.cache
+G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.Entidades\obj\Debug\DotNetStore.Entidades.dll
+G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.Entidades\obj\Debug\DotNetStore.Entidades.pdb
+G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.Entidades\obj\Debug\DotNetStore.Entidades.csprojAssemblyReference.cache

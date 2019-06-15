@@ -42,8 +42,8 @@ namespace DotNetStore.AccesoDatos.Migrations
                 var userManager = new UserManager<IdentityUser>(userStore);
                 var user = new IdentityUser()
                 {
-                    UserName = "admin@dotnetstore.com",
-                    Email = "admin@dotnetstore.com"
+                    UserName = "admin1@dotnetstore.com",
+                    Email = "admin1@dotnetstore.com"
                 };
                 userManager.Create(user, "1234567");
                 userManager.AddToRole(user.Id, "Administrador");

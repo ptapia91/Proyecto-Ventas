@@ -1,0 +1,9 @@
+G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.Repository\bin\Debug\DotNetStore.Repository.dll
+G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.Repository\bin\Debug\DotNetStore.Repository.pdb
+G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.Repository\bin\Debug\DotNetStore.Entidades.dll
+G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.Repository\bin\Debug\DotNetStore.Entidades.pdb
+G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.Repository\obj\Debug\DotNetStore.Repository.csprojAssemblyReference.cache
+G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.Repository\obj\Debug\DotNetStore.Repository.csproj.CoreCompileInputs.cache
+G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.Repository\obj\Debug\DotNetStore.Repository.csproj.CopyComplete
+G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.Repository\obj\Debug\DotNetStore.Repository.dll
+G:\Proyecto Cibertec\Proyecto-Ventas\DotNetStore.Repository\obj\Debug\DotNetStore.Repository.pdb
